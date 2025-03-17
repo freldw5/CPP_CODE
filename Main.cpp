@@ -1,3 +1,4 @@
+// This is the main program of Dollar converter.
 #include "LoginForm.h"
 
 int main() {
