@@ -1,3 +1,4 @@
+// This is a header of Dollar converter.
 #include <iostream>
 #include <fstream>
 #include <string>
